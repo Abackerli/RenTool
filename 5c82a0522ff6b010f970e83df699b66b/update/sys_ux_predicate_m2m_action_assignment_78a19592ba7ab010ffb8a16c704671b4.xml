@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="reject">f0a195922b7ab010103219e3f93837a9</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">74a195928c7ab0109b597c05e5638bb1</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-09-26 22:07:37</sys_created_on>
+        <sys_id>78a19592ba7ab010ffb8a16c704671b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="RenTools" source="x_425133_rentools">5c82a0522ff6b010f970e83df699b66b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RenTools">5c82a0522ff6b010f970e83df699b66b</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_78a19592ba7ab010ffb8a16c704671b4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-09-26 22:07:37</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

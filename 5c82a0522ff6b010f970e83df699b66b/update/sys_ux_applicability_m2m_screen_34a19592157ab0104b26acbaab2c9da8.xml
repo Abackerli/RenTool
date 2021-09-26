@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">38a19592f17ab0109c415ee3a0b2eea8</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">30a19592257ab01029b9be1284975db9</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-09-26 22:07:38</sys_created_on>
+        <sys_id>34a19592157ab0104b26acbaab2c9da8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="RenTools" source="x_425133_rentools">5c82a0522ff6b010f970e83df699b66b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RenTools">5c82a0522ff6b010f970e83df699b66b</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_34a19592157ab0104b26acbaab2c9da8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-09-26 22:07:38</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

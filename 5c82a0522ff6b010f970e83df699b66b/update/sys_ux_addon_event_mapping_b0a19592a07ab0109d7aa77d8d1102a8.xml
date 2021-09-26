@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Reject Mapping</name>
+        <parent_macroponent display_value="Landing Page">3ca19592c57ab010c023d4026e5eb9ba</parent_macroponent>
+        <source_da display_value="reject">f0a195922b7ab010103219e3f93837a9</source_da>
+        <source_element_id>data_row_1</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-09-26 22:07:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b0a19592a07ab0109d7aa77d8d1102a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RenTools" source="x_425133_rentools">5c82a0522ff6b010f970e83df699b66b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RenTools">5c82a0522ff6b010f970e83df699b66b</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_b0a19592a07ab0109d7aa77d8d1102a8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-09-26 22:07:40</sys_updated_on>
+        <target_event display_value="My tasks reject">f0a19592b57ab0106d31b786c918b6a8</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    },
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

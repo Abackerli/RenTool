@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Login</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-09-26 22:07:37</sys_created_on>
+        <sys_id>38a195923a7ab01038d294794536b5a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Login</sys_name>
+        <sys_package display_value="RenTools" source="x_425133_rentools">5c82a0522ff6b010f970e83df699b66b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RenTools">5c82a0522ff6b010f970e83df699b66b</sys_scope>
+        <sys_update_name>sys_ux_screen_type_38a195923a7ab01038d294794536b5a9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-09-26 22:07:37</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=38a195923a7ab01038d294794536b5a9"/>
+</record_update>

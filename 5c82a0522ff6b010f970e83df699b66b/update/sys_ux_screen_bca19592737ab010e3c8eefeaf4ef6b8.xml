@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="RenTools Config">78a195922f7ab010f970e83df699b68b</app_config>
+        <description/>
+        <event_mappings>[ {
+  "eventMappingId" : "ckfmaaairddaaaaffjddhhhdiwqbkiwr",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_425133_rentools.NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_bca19592ed7ab01029e2a5cea83a61b2",
+  "sourceEventDefinition" : {
+    "apiName" : "x_425133_rentools.NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_bca19592ed7ab01029e2a5cea83a61b2",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_uxf_page.NOW_UXF_PAGE#ADD_NOTIFICATIONS",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "items" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "items" ]
+            }
+          }
+        }
+      },
+      "sysId" : "49fe7d575f983bb3f8eea3fa8d40694c"
+    },
+    "operation" : null,
+    "targetId" : "ckfmaaairddaaaaffiddhhhdoiasehhlj",
+    "type" : "EVENT"
+  } ]
+} ]</event_mappings>
+        <macroponent display_value="Preferences">bca19592ed7ab01029e2a5cea83a61b2</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "2",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Preferences Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Settings Page">b0a195922e7ab0102fa32281aca6f4a9</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Preferences">30a19592547ab0104fc4d727a609d8a9</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-09-26 22:07:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bca19592737ab010e3c8eefeaf4ef6b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Preferences Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RenTools" source="x_425133_rentools">5c82a0522ff6b010f970e83df699b66b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RenTools">5c82a0522ff6b010f970e83df699b66b</sys_scope>
+        <sys_update_name>sys_ux_screen_bca19592737ab010e3c8eefeaf4ef6b8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-09-26 22:07:39</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=bca19592737ab010e3c8eefeaf4ef6b8"/>
+</record_update>
