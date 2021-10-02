@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Alugar ferramenta">ae52d1d22f7ab010f970e83df699b61c</sc_cat_item>
+        <sc_cat_item display_value="Cadastro de cliente">ca39dfbb2f3a3010f970e83df699b636</sc_cat_item>
         <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-09-26 22:14:53</sys_created_on>
-        <sys_id>fb439dd22f7ab010f970e83df699b6db</sys_id>
+        <sys_created_on>2021-10-01 23:54:23</sys_created_on>
+        <sys_id>7d0a1ffb2f3a3010f970e83df699b611</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Services.Pedir ferramenta</sys_name>
+        <sys_name>Services.Cadastro de cliente</sys_name>
         <sys_package display_value="RenTools" source="x_425133_rentools">5c82a0522ff6b010f970e83df699b66b</sys_package>
         <sys_policy/>
         <sys_scope display_value="RenTools">5c82a0522ff6b010f970e83df699b66b</sys_scope>
-        <sys_update_name>sc_cat_item_category_fb439dd22f7ab010f970e83df699b6db</sys_update_name>
+        <sys_update_name>sc_cat_item_category_7d0a1ffb2f3a3010f970e83df699b611</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-09-26 22:14:53</sys_updated_on>
+        <sys_updated_on>2021-10-01 23:54:23</sys_updated_on>
     </sc_cat_item_category>
 </record_update>

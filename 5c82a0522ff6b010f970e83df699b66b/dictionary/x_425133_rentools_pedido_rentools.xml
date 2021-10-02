@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Pedido RenTools" max_length="40" name="x_425133_rentools_pedido_rentools" type="collection">
+    <element extends="task" label="Pedido RenTools" max_length="40" name="x_425133_rentools_pedido_rentools" sizeclass="2" type="collection">
         <element label="Data da devolução" max_length="40" name="data_da_devolu_o" type="glide_date"/>
         <element label="Data da retirada" max_length="40" name="data_da_retirada" type="glide_date"/>
         <element label="Fornecedor" max_length="32" name="fornecedor" reference="x_425133_rentools_fornecedores" type="reference"/>

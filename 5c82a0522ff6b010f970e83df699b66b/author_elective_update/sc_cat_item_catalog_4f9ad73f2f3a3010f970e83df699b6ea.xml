@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Cadastro de produto">fb7a573f2f3a3010f970e83df699b6b2</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 23:56:55</sys_created_on>
+        <sys_id>4f9ad73f2f3a3010f970e83df699b6ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Cadastro de produto</sys_name>
+        <sys_package display_value="RenTools" source="x_425133_rentools">5c82a0522ff6b010f970e83df699b66b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RenTools">5c82a0522ff6b010f970e83df699b66b</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_4f9ad73f2f3a3010f970e83df699b6ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 23:56:55</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RenTools">5c82a0522ff6b010f970e83df699b66b</application>
+        <file_path/>
+        <instance_id>951b04d1dbca13404c1ff70fbf9619ee</instance_id>
+        <instance_name>dev59162</instance_name>
+        <name>sc_cat_item_catalog_4f9ad73f2f3a3010f970e83df699b6ea</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Cadastro de produto">fb7a573f2f3a3010f970e83df699b6b2</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-01 23:56:55</sys_created_on><sys_id>4f9ad73f2f3a3010f970e83df699b6ea</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Cadastro de produto</sys_name><sys_package display_value="RenTools" source="x_425133_rentools">5c82a0522ff6b010f970e83df699b66b</sys_package><sys_policy/><sys_scope display_value="RenTools">5c82a0522ff6b010f970e83df699b66b</sys_scope><sys_update_name>sc_cat_item_catalog_4f9ad73f2f3a3010f970e83df699b6ea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-01 23:56:55</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1169978403</payload_hash>
+        <record_name>Service Catalog.Cadastro de produto</record_name>
+        <reverted_from/>
+        <source>ac1e4dda2f3ab010f970e83df699b653</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 23:56:55</sys_created_on>
+        <sys_id>839ad73f2f3a3010f970e83df699b6ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c3e4a17b60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 23:56:55</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>0b9ad73f223a3010c61eeb6de8b5b2ed</update_guid>
+        <update_guid_history>0b9ad73f223a3010c61eeb6de8b5b2ed:-1169978403</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Cadastro de produto">8f9ad73f2f3a3010f970e83df699b6f5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 23:56:55</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>06bc3cc38d9e42a6a1f17ba1122ab949</sys_id>
+        <sys_metadata>4f9ad73f2f3a3010f970e83df699b6ea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Cadastro de produto</sys_name>
+        <sys_package display_value="RenTools" source="x_425133_rentools">5c82a0522ff6b010f970e83df699b66b</sys_package>
+        <sys_parent display_value="Cadastro de produto">fb7a573f2f3a3010f970e83df699b6b2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="RenTools">5c82a0522ff6b010f970e83df699b66b</sys_scope>
+        <sys_scope_delete display_value="">130eb90181c646709cdb3e467efc4c40</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_4f9ad73f2f3a3010f970e83df699b6ea</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_4f9ad73f2f3a3010f970e83df699b6ea">839ad73f2f3a3010f970e83df699b6ee</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 23:56:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
