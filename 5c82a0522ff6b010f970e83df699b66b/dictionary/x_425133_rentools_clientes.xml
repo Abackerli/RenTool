@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Clientes" max_length="40" name="x_425133_rentools_clientes" type="collection">
+        <element label="CPF" max_length="40" name="cpf" type="integer"/>
+        <element label="Endereço" max_length="40" name="endere_o" type="string"/>
+        <element label="Nome" max_length="40" name="nome" type="string"/>
+    </element>
+</database>

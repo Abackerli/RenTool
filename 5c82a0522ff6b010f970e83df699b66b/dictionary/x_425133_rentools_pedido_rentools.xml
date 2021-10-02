@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Pedido RenTools" max_length="40" name="x_425133_rentools_pedido_rentools" type="collection">
+        <element label="Data da devolução" max_length="40" name="data_da_devolu_o" type="glide_date"/>
+        <element label="Data da retirada" max_length="40" name="data_da_retirada" type="glide_date"/>
+        <element label="Fornecedor" max_length="32" name="fornecedor" reference="x_425133_rentools_fornecedores" type="reference"/>
+        <element choice="1" label="Pagamento" max_length="40" name="pagamento" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="A vista" sequence="10" value="a_vista"/>
+                <element inactive_on_update="false" label="Parcelado" sequence="20" value="parcelado"/>
+            </choice>
+        </element>
+        <element label="Produto" max_length="32" name="produto" reference="x_425133_rentools_produtos" type="reference"/>
+        <element label="Valor" max_length="20" name="valor" type="price"/>
+    </element>
+</database>

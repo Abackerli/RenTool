@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Fornecedores" max_length="40" name="x_425133_rentools_fornecedores" type="collection">
+        <element label="CNPJ" max_length="40" name="cpnj" type="string"/>
+        <element label="Endereço" max_length="40" name="endere_o" type="string"/>
+        <element display="true" label="Nome" max_length="40" name="nome" type="string"/>
+    </element>
+</database>

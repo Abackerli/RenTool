@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Produtos" max_length="40" name="x_425133_rentools_produtos" type="collection">
+        <element label="Fornecedor" max_length="32" name="fornecedor" reference="x_425133_rentools_fornecedores" type="reference"/>
+        <element display="true" label="Nome" max_length="40" name="nome" type="string"/>
+        <element label="preço" max_length="20" name="pre_o" type="price"/>
+    </element>
+</database>

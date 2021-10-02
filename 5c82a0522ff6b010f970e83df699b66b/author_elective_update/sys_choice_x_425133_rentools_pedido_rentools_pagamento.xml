@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="pagamento" table="x_425133_rentools_pedido_rentools" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>pagamento</element>
+            <name>x_425133_rentools_pedido_rentools</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-26 19:14:28</sys_created_on>
+            <sys_id>b40a28962ff6b010f970e83df699b626</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>pagamento</sys_name>
+            <sys_package display_value="RenTools" source="x_425133_rentools">5c82a0522ff6b010f970e83df699b66b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RenTools">5c82a0522ff6b010f970e83df699b66b</sys_scope>
+            <sys_update_name>sys_choice_x_425133_rentools_pedido_rentools_pagamento</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-26 19:14:28</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>pagamento</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A vista</label>
+            <language>en</language>
+            <name>x_425133_rentools_pedido_rentools</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-26 19:14:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f40a28962ff6b010f970e83df699b625</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-26 19:14:28</sys_updated_on>
+            <value>a_vista</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>pagamento</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Parcelado</label>
+            <language>en</language>
+            <name>x_425133_rentools_pedido_rentools</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-26 19:14:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>380a28962ff6b010f970e83df699b652</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-26 19:14:28</sys_updated_on>
+            <value>parcelado</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

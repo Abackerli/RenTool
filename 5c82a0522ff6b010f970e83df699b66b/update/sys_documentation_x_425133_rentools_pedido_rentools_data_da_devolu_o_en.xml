@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="data_da_devolu_o" label="Data da devolução" language="en" table="x_425133_rentools_pedido_rentools">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>data_da_devolu_o</element>
+            <help/>
+            <hint/>
+            <label>Data da devolução</label>
+            <language>en</language>
+            <name>x_425133_rentools_pedido_rentools</name>
+            <plural>Data da devoluçãos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-26 19:12:20</sys_created_on>
+            <sys_id>6d89a0962ff6b010f970e83df699b6bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Data da devolução</sys_name>
+            <sys_package display_value="RenTools" source="x_425133_rentools">5c82a0522ff6b010f970e83df699b66b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RenTools">5c82a0522ff6b010f970e83df699b66b</sys_scope>
+            <sys_update_name>sys_documentation_x_425133_rentools_pedido_rentools_data_da_devolu_o_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-26 19:12:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
